@@ -5,5 +5,5 @@ Feature: my first feature
     Scenario: Write my first scenario
       Given an initial state
       When I perform an action
-      Then I should observe an outcome
+      Then I should observe an outcome.
     
